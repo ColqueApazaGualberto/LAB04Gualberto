@@ -1,0 +1,10 @@
+—¿Cómo es que se instalan paquetes con yarn?
+1. instalamos yarn: npm install --global yarn
+2. iniciamos yarn: yarn init
+3. agregamos paquetes: yarn add nombre-del-paquete
+
+—¿Cómo es que se borran paquetes con yarn?
+con el siguiente comando: yarn remove <nombre_del_paquete>
+
+—¿Hay algún equivalente en yarn que haga lo mismo que npm init?
+yarn init

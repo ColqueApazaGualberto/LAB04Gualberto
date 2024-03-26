@@ -1,0 +1,19 @@
+{
+  "name": "laboratorio04auxiliatura",
+  "version": "1.0.0",
+  "description": "este es el laboratorio 4 de auxiliatura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColqueApazaGualberto/LAB04Gualberto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColqueApazaGualberto/LAB04Gualberto/issues"
+  },
+  "homepage": "https://github.com/ColqueApazaGualberto/LAB04Gualberto#readme"
+}
